@@ -19,22 +19,21 @@ This project is a task management system built using Django for the backend and 
 
 ##Screenshots
 ### Login Page
-![Login Page](![image](https://github.com/user-attachments/assets/cb087fef-ecee-4a87-bea1-cca8624dea7f)
-)
+![Login Page](https://github.com/user-attachments/assets/cb087fef-ecee-4a87-bea1-cca8624dea7f) 
 
 ### Registration Page
-![Registration Page](![image](https://github.com/user-attachments/assets/b3ecf3e3-e367-4d89-b348-c82ddf9a43d6)
-)
+![Registration Page](https://github.com/user-attachments/assets/b3ecf3e3-e367-4d89-b348-c82ddf9a43d6)
+
 
 ### Task List
-![Task List](![image](https://github.com/user-attachments/assets/f1161532-961f-423e-af52-b870b731988a)
-)
+![Task List](https://github.com/user-attachments/assets/f1161532-961f-423e-af52-b870b731988a)
+
 ### Task Detail
-![Task Detail](![image](https://github.com/user-attachments/assets/9327e555-f24f-4501-87d7-02d0930e31a7)
-)### Task Form
-![Task Form](![image](https://github.com/user-attachments/assets/58c8d545-2361-478f-9118-662cbbc169c2)
-)### Filter
-![Filter](![image](https://github.com/user-attachments/assets/e662b424-312b-4f03-8de4-bc8bbe508b43)
+![Task Detail](https://github.com/user-attachments/assets/9327e555-f24f-4501-87d7-02d0930e31a7)
+### Task Form
+![Task Form](https://github.com/user-attachments/assets/58c8d545-2361-478f-9118-662cbbc169c2)
+### Filter
+![Filter](https://github.com/user-attachments/assets/e662b424-312b-4f03-8de4-bc8bbe508b43)
 
 
 ## Features
